@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvalls
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning programming
+- 🌱 Always learning and seeking for more.
 
 <!---
 kvalls/kvalls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
