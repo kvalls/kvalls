@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kvalls, trained as a Fullstack Developer and in DevOps
+- 👋 Hi, I’m Kris, trained as a Fullstack Developer and in DevOps
 - 👀 I’m interested in technology
 - 🌱 Always learning and seeking for more.
 
