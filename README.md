@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kris, trained as a FullStack Developer and in DevOps.
-- 🖲️ Interested in Artificial Intelligence, XR/VR, cutting-edge technology...
+- 🖥️ Interested in Artificial Intelligence, XR/VR, cutting-edge technology...
 - 🌱 Always learning and seeking for more.
 
 <!---
