@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kris, trained as a FullStack Developer and in DevOps
-- 👀 I’m interested in technology
+- 👋 Hi, I’m Kris, trained as a FullStack Developer and in DevOps.
+- 🖲️ I’m interested in cutting-edge technology.
 - 🌱 Always learning and seeking for more.
 
 <!---
