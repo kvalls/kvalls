@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
 # 🩻GitStats
 
   <div>
-     <img display=block align=center
-  height=250px src="https://streak-stats.demolab.com/?user=kvalls&theme=monokai"/>
-     <img align=center height=135px src="https://github-readme-stats.vercel.app/api?username=kvalls&count_private=true&show_icons=true&theme=monokai&hide=stars,prs,issues"/><img align=center height=135px src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvalls&exclude_repo=VRTourProtoype&layout=compact&show_icons=true&theme=monokai"/>
+     <img display=block align=center height=250px src="https://streak-stats.demolab.com/?user=kvalls&theme=monokai"/>
+<!-- <img align=center height=135px src="https://github-readme-stats.vercel.app/api?username=kvalls&count_private=true&show_icons=true&theme=monokai&hide=stars,prs,issues"/> -->
+    <img align=center height=135px src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvalls&exclude_repo=VRTourProtoype&layout=compact&show_icons=true&theme=monokai"/>
   <div>
 <div>
